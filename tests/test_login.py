@@ -58,4 +58,4 @@ class TestLogin:
         expected_url = "https://www.qaplayground.com/bank/dashboard"
         assert current_url == expected_url
         
-    # Place holder for 6tgh testcase
+    # Place holder for 6TH testcase
