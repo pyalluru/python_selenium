@@ -58,4 +58,4 @@ class TestLogin:
         expected_url = "https://www.qaplayground.com/bank/dashboard"
         assert current_url == expected_url
         
-    # Placeholder for 6th testcase
+    # I understood GIT process
